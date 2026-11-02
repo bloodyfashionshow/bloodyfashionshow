@@ -14,7 +14,7 @@ src="https://github.com/user-attachments/assets/1fe28ef0-3094-46d2-be1f-64291686
 &emsp;
 &emsp;
 
-<div align="right">
+<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bloodyfashionshow&style=flat-square&color=960019&ffffff&label=bombs+counting)&emsp; $\color{#BF0A30}{\textsf{september}}$ &emsp; $\color{#BF0A30}{\textsf{1st}}$ $\color{#BF0A30}{\textsf{1989}}$ &emsp; $\color{#663399}{\textsf{dear}}$ $\color{#663399}{\textsf{,}}$ $\color{#663399}{\textsf{diary}}$ $\color{#663399}{\textsf{.}}$
 
